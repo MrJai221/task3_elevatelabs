@@ -1,0 +1,6 @@
+Vulnerability Scan Summary (Nessus - Local IP: 192.168.9.129)
+------------------------------------------------------------
+- Outdated SMB Protocol [High]: May allow remote code execution via EternalBlue.
+- Open RDP Port (3389) [Medium]: Can be brute-forced if not secured.
+- Weak SSL/TLS Configuration [Medium]: May expose encrypted traffic to downgrade attacks.
+- Unpatched Software [High]: Missing critical security updates.
